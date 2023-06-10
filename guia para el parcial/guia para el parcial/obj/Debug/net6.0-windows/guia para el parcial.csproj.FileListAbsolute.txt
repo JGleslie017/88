@@ -1,0 +1,10 @@
+C:\Users\leslie\source\repos\guia para el parcial\guia para el parcial\obj\Debug\net6.0-windows\guia para el parcial.csproj.AssemblyReference.cache
+C:\Users\leslie\source\repos\guia para el parcial\guia para el parcial\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\leslie\source\repos\guia para el parcial\guia para el parcial\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\leslie\source\repos\guia para el parcial\guia para el parcial\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\leslie\source\repos\guia para el parcial\guia para el parcial\obj\Debug\net6.0-windows\guia para el parcial_MarkupCompile.cache
+C:\Users\leslie\source\repos\guia para el parcial\guia para el parcial\obj\Debug\net6.0-windows\guia para el parcial.g.resources
+C:\Users\leslie\source\repos\guia para el parcial\guia para el parcial\obj\Debug\net6.0-windows\guia para el parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leslie\source\repos\guia para el parcial\guia para el parcial\obj\Debug\net6.0-windows\guia para el parcial.AssemblyInfoInputs.cache
+C:\Users\leslie\source\repos\guia para el parcial\guia para el parcial\obj\Debug\net6.0-windows\guia para el parcial.AssemblyInfo.cs
+C:\Users\leslie\source\repos\guia para el parcial\guia para el parcial\obj\Debug\net6.0-windows\guia para el parcial.csproj.CoreCompileInputs.cache
